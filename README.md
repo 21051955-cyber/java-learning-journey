@@ -1,14 +1,18 @@
-# Java Learning Journey
+Java Learning Journey
 
-Learning Java from scratch.
+Day 1:
+- Basic Java programs
 
-## Day 1
-- Hello World Program
-- Print Name
-- Print Age
-- Addition Program
-- My Profile Program
-- GitHub Setup
-- Git Ignore Configuration
+Day 2:
+- Scanner input
+- Calculator project
 
-Goal: Become job-ready in Software Development.
+Day 3:
+- Conditional statements
+- Even/Odd
+- Positive/Negative
+- Voting Eligibility
+- Largest Number
+- Grade Calculator
+- Leap Year
+- Password Checker
